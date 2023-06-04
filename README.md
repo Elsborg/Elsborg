@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elsborg
 - 👀 I’m interested in: Frontend developing
-- 🌱 I’m currently learning: HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on: Creating a working website/store
+- 🌱 I’m currently learning: TypeScript/React Native
+- 💞️ I’m looking to collaborate on: Creating a working websites/apps
 - 📫 How to reach me: Martin.elsborg@gmail.com
 
 <!---
